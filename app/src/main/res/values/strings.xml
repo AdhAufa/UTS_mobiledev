@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Catatan Harga Produk</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Data produk</string>
+    <string name="second_fragment_label">Update barang</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_product">Catatan Harga Produk</string>
+    <string name="create_fragment_label">Produk baru</string>
+</resources>
